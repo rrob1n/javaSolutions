@@ -3,8 +3,12 @@
 ## Solutions
 
 1. Hackerrank
+
+- 30 Days Of Code
    | File Name | Link |
    | --------- | ---- |
+   | Day 0 Hello World | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day0HelloWorld/Main.java)|
+   
 
 
 2. leetCode
