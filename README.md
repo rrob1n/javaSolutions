@@ -7,8 +7,8 @@
 - 30 Days Of Code
    | File Name | Link |
    | --------- | ---- |
-   | Day 0 Hello World | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day0HelloWorld/Main.java)|
-   | Day 1 Data Types | [Main.java](https://github.com/rrob1n/javaSolutions/tree/main/hackerrank/30DaysOfCode/Day1DataTypes/src)|
+   | Day 0 Hello World | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day0HelloWorld/src/Main.java)|
+   | Day 1 Data Types | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day1DataTypes/src/Main.java)|
    
 
 
