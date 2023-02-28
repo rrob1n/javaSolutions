@@ -9,6 +9,7 @@
    | --------- | ---- |
    | Day 0 Hello World | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day0HelloWorld/src/Main.java)|
    | Day 1 Data Types | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day1DataTypes/src/Main.java)|
+   | Day 2 Operators | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day2Operators/src/Main.java)|
    
 
 
