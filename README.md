@@ -11,7 +11,8 @@
    | Day 1 Data Types | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day1DataTypes/src/Main.java)|
    | Day 2 Operators | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day2Operators/src/Main.java)|
    | Day 3 Intro to Conditional Statements | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day3IntroToConditionalStatements/Main.java)|
-   | Day 4 Class Vs Instance | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day4ClassVsInstance/src/Main.java)
+   | Day 4 Class Vs Instance | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day4ClassVsInstance/src/Main.java) |
+   | Day 5 Loops | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day5Loops/src/Main.java) |
    
 
 
