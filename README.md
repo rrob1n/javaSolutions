@@ -13,6 +13,7 @@
    | Day 3 Intro to Conditional Statements | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day3IntroToConditionalStatements/Main.java)|
    | Day 4 Class Vs Instance | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day4ClassVsInstance/src/Main.java) |
    | Day 5 Loops | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day5Loops/src/Main.java) |
+   | Day 6 Let's Review | [Main.java](https://github.com/rrob1n/javaSolutions/blob/main/hackerrank/30DaysOfCode/Day6LetsReview/src/Main.java) |
    
 
 
